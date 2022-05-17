@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1590860711 source:c:\users\vlad\desktop\proiect_atestat\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<graphics.h>
+
+1590932460 source:c:\users\vlad\desktop\veliciu_vlad\proiect_atestat\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<graphics.h>
+
+1590928860 source:c:\users\admin\desktop\veliciu_vlad\proiect_atestat\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<graphics.h>
+
