@@ -10,5 +10,5 @@ Includes a theory module (concepts, formulas) and a practical module for buildin
 - Calculates: I, U, P, W, Pmax, equivalent EMF & resistance
 - Simple graphical interface (graphics.h, image-based diagrams)
 
-🛠️ Tech: C++, file storage, graphics.h  
-📌 Origin: high school diploma project (Atestat, 2020)
+Tech: C++, file storage, graphics.h  
+Origin: high school diploma project (Atestat, 2020)
