@@ -1,4 +1,14 @@
-# DC_current_app: "Learning and applying the fundamentals of DC current circuits" App (20/03/2020 - 01/06/2020)
-- The app has a theoretical part where the notions of DC circuits are presented and an applicative part where the user can create circuits by himself, change values of the components, see other parameters and also give a feedback before he leaves the app
-- also provides an admin account that gives the possibility to manage all the users' data
-- written in C++ language.
+# DC Current Learning App
+
+Educational C++ application for learning and applying the fundamentals of **DC circuits**.  
+Includes a theory module (concepts, formulas) and a practical module for building circuits and calculating parameters such as current, voltage, power, and equivalent resistances.
+
+**Key features:**
+- User & admin accounts (local file-based)
+- Add/edit/remove circuits, batteries, and resistors
+- Supports series & parallel configurations
+- Calculates: I, U, P, W, Pmax, equivalent EMF & resistance
+- Simple graphical interface (graphics.h, image-based diagrams)
+
+🛠️ Tech: C++, file storage, WinBGI/graphics.h  
+📌 Origin: high school diploma project (Atestat, 2020)
